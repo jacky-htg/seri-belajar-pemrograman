@@ -146,7 +146,7 @@ let salam = "Selamat pagi dunia!";
 console.log(salam.split(" "));
 ```
 
-### Template using backtick
+## Template using backtick
 
 Kadang kita memerlukan template string, misalnya saat hendak memasukkan variabel ke dalam format string. Javascript menyediakan template string dengan backtick \(\`\).
 
