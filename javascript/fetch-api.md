@@ -8,6 +8,14 @@ Ajax dibagi menjadi tiga tahapan :
 2. Membuat callback.  `xhttp.onload = function() {      // lakukan manipulasi DOM ketika sudah mendapat response  }`
 3. Mengirim request. `xhttp.open("http method: GET|POST|PUT|DELETE", "url");  xhttp.send();`
 
+Untuk persiapan dan bahan pembelajaran, saya sudah sediakan CRUD Rest API untuk digunakan, yaitu :  
+- GET /users  
+- POST /users  
+- GET /users/:id  
+- PUT /users/:id  
+- DELETE /users/:id  
+Url bisa diakses melalui :  https://api.anter.rijalasepnugroho.com
+
 ### List
 
 ```markup
