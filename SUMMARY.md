@@ -25,7 +25,7 @@
 * [Array](javascript/array.md)
 * [JSON](javascript/object.md)
 * [Error Handling](javascript/error-handling.md)
-* [Fetch API](javascript/fetch-api.md)
+* [AJAX](javascript/fetch-api.md)
 * [Event](javascript/event.md)
 * [Asynchronous](javascript/asynchronous.md)
 * [Module](javascript/module.md)
