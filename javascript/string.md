@@ -110,13 +110,13 @@ console.log(salam.charAt("asal"));
 
 ### Mengubah huruf besar/kecil : toUpperCase dan toLowerCase
 
-Untuk mengubah suatu string menjadi huruf besar maupun huruf kecil, digunakan metho toUppercase dan toLoweCase.
+Untuk mengubah suatu string menjadi huruf besar maupun huruf kecil, digunakan method toUppercase dan toLowerCase.
 
 ```javascript
 let salam = "Selamat pagi dunia!";
 console.log(salam.toUpperCase());
-console.log(salam.toLocaleLowerCase());
-console.log(salam.charAt(0).toUpperCase()+salam.slice(1).toLocaleLowerCase());
+console.log(salam.toLowerCase());
+console.log(salam.charAt(0).toUpperCase()+salam.slice(1).toLowerCase());
 ```
 
 ### Menggabungkan dua string : concat
@@ -139,7 +139,7 @@ console.log(salam.trimStart());
 console.log(salam.trimEnd());
 ```
 
-Mengubah string .menjadi array : split
+### Mengubah string menjadi array : split
 
 ```javascript
 let salam = "Selamat pagi dunia!";
