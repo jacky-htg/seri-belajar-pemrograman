@@ -14,7 +14,7 @@ Untuk persiapan dan bahan pembelajaran, saya sudah sediakan CRUD Rest API untuk 
 - GET /users/:id  
 - PUT /users/:id  
 - DELETE /users/:id  
-Url bisa diakses melalui :  https://api.anter.rijalasepnugroho.com
+Url bisa diakses melalui :  https://node-rest.rijalasepnugroho.com
 
 ### List
 
@@ -58,7 +58,7 @@ Buat file list-user.html
       parent.innerHTML = "";
       parent.insertAdjacentHTML("beforeend", html);
     };  
-    xhttp.open("GET", "http://localhost:3000/users");
+    xhttp.open("GET", "https://node-rest.rijalasepnugroho.com/users");
     xhttp.send();
   }
 
@@ -122,7 +122,7 @@ Ubah file list-user.html untuk menambahkan tombol "Tambah User".
       parent.innerHTML = "";
       parent.insertAdjacentHTML("beforeend", html);
     };  
-    xhttp.open("GET", "https://api.anter.rijalasepnugroho.com/users");
+    xhttp.open("GET", "https://node-rest.rijalasepnugroho.com/users");
     xhttp.send();
   }
 
@@ -172,7 +172,7 @@ Buat file add-user.html
 
   function add() {
     var xhttp = new XMLHttpRequest();
-    xhttp.open("POST", "https://api.anter.rijalasepnugroho.com/users", true);
+    xhttp.open("POST", "https://node-rest.rijalasepnugroho.com/users", true);
     xhttp.onload = function() {
       const newUser = JSON.parse(this.responseText);
       if (newUser.id > 0) {
@@ -287,7 +287,7 @@ Berikut file list-user.html
 
   function add() {
     var xhttp = new XMLHttpRequest();
-    xhttp.open("POST", "https://api.anter.rijalasepnugroho.com/users", true);
+    xhttp.open("POST", "https://node-rest.rijalasepnugroho.com/users", true);
     xhttp.onload = function() {
       const newUser = JSON.parse(this.responseText);
       if (newUser.id > 0) {
@@ -332,7 +332,7 @@ Berikut file list-user.html
       parent.innerHTML = "";
       parent.insertAdjacentHTML("beforeend", html);
     };  
-    xhttp.open("GET", "https://api.anter.rijalasepnugroho.com/users");
+    xhttp.open("GET", "https://node-rest.rijalasepnugroho.com/users");
     xhttp.send();
   }
 
