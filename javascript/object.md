@@ -73,13 +73,10 @@ const ninja1 = {
   umur: 12,
   alamat: "Desa Konoha",
   jurus: ["kage bunshin", "rasengan"]
-}
+};
+console.log(ninja1);
 delete ninja1.umur;
 delete ninja1["alamat"];
-console.log(ninja1);
-
-ninja1.umur = 15;
-ninja1.alamat = "Desa Oto";
 console.log(ninja1);
 ```
 
