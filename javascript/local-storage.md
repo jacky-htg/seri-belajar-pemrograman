@@ -67,12 +67,7 @@ Jika login berhasil maka di dalam local storage akan tersimpan Key = token dan V
 Agar lebih riil, maka di dalam halaman yang harus login terlebih dahulu, dilakukan pengecekan apakah sudah login atau belum, jika belum diredirct ke halaman login.
 
 ```javascript
-  let hasLogin = false;
-  if (localStorage.getItem("token")) {
-    hasLogin = true;
-  } 
-
-  if (!hasLogin) {
+  if (!localStorage.getItem("token")) {
     location.href = "./login.html";
   }
 ```
