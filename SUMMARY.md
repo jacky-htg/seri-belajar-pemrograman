@@ -11,7 +11,7 @@
 * [Link, Gambar dan Multimedia](html-dan-css/multimedia.md)
 * [Layout](html-dan-css/layout.md)
 * [Form](html-dan-css/form.md)
-* [Praktikum : Membuat Halaman Login dan CRUD](html-dan-css/praktikum-membuat-halaman-login-dan-crud.md)
+* [Praktikum I : Membuat Halaman Login dan CRUD](html-dan-css/praktikum-membuat-halaman-login-dan-crud.md)
 
 ## Javascript
 
