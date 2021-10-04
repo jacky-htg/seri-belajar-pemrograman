@@ -26,6 +26,7 @@
 * [JSON](javascript/object.md)
 * [Error Handling](javascript/error-handling.md)
 * [AJAX](javascript/fetch-api.md)
+* [Praktikum II : Mengintegrasikan Halaman Login dan CRUD dengan AJAX](javascript/praktikum-ii-mengintegrasikan-halaman-login-dan-crud-dengan-ajax.md)
 * [Asynchronous](javascript/asynchronous.md)
 * [Module](javascript/module.md)
 
