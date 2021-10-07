@@ -3,9 +3,9 @@
 ## Table, Baris dan Kolom
 
 * Element &lt;table&gt; untuk membuat tabel
-* Elemen &lt;tr&gt; untuk membuat baris
-* Elemen &lt;th&gt; untuk membuat kolom header
-* Elemen &lt;td&gt; untuk membuat kolom
+* Elemen &lt;tr&gt; atau _table row_ untuk membuat baris
+* Elemen &lt;th&gt; atau _table header_ untuk membuat kolom header
+* Elemen &lt;td&gt; atau _table data_ untuk membuat kolom
 
 ```markup
 <table>
