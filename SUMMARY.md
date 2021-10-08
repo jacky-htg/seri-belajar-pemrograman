@@ -11,7 +11,7 @@
 * [Link, Gambar dan Multimedia](html-dan-css/multimedia.md)
 * [Layout](html-dan-css/layout.md)
 * [Form](html-dan-css/form.md)
-* [Praktikum : Membuat Halaman Login dan CRUD](html-dan-css/praktikum-membuat-halaman-login-dan-crud.md)
+* [Praktikum I : Membuat Halaman Login dan CRUD](html-dan-css/praktikum-membuat-halaman-login-dan-crud.md)
 
 ## Javascript
 
@@ -25,10 +25,10 @@
 * [Array](javascript/array.md)
 * [JSON](javascript/object.md)
 * [Error Handling](javascript/error-handling.md)
-* [Fetch API](javascript/fetch-api.md)
-* [Event](javascript/event.md)
+* [AJAX](javascript/fetch-api.md)
+* [Local Storage](javascript/local-storage.md)
 * [Asynchronous](javascript/asynchronous.md)
-* [Module](javascript/module.md)
+* [Praktikum II : Mengintegrasikan Halaman Login dan CRUD dengan AJAX](javascript/praktikum-ii-mengintegrasikan-halaman-login-dan-crud-dengan-ajax.md)
 
 ## Database
 
@@ -43,6 +43,7 @@
 ## Node JS
 
 * [Pengenalan Node JS](node-js/pengenalan-node-js.md)
+* [Module](node-js/module.md)
 * [Express](node-js/express.md)
 * [Rest API](node-js/sequalize.md)
 * [JWT Token](node-js/jwt-token.md)
