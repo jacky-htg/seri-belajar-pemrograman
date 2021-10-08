@@ -17,7 +17,7 @@ Untuk membuat link dari satu halaman ke halaman lain, gunakan hyperlink dengan t
 
 ## Gambar
 
-Gunakan tag &lt;img/&gt; untuk menampilkan file gambar. Atribut utama &lt;img/&gt; adalah src dan alt. src diisi dengan source file gambar \(bisa berupa url maupun path direktori file\), sementara alt adalah alternatif teks yang ditampilkan jika source gambar tidak berhasil ditemukan. Sebenarnya ada atribut lain width dan height juga, tapi saya pribadi lebih suka memasang width dan height di dalam style, untuk mencegah atribut width dan height gambar sudah dipasang sebagai atribut gambar namun ternyata tidak berlaku karena di-override oleh css.
+Gunakan tag &lt;img/&gt; untuk menampilkan file gambar. Atribut utama &lt;img/&gt; adalah src dan alt. src diisi dengan source file gambar \(bisa berupa url maupun path direktori file\), sementara alt adalah alternatif teks yang ditampilkan jika source gambar tidak berhasil dimuat. Sebenarnya ada atribut lain width dan height juga, tapi saya pribadi lebih suka memasang width dan height di dalam style, untuk mencegah atribut width dan height gambar sudah dipasang sebagai atribut gambar namun ternyata tidak berlaku karena di-override oleh css.
 
 ```markup
 <style>

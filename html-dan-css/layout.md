@@ -27,7 +27,7 @@ Dua teknik terbaru yang muncul dalam layout adalah flexbox dan grid. Kedua tekni
 
 ## Layout HTML
 
-Dalam pembahaasan kali ini, kita akan membahas dua teknik layout, yaitu position dan felxbox. Baik position maupun flexbox akan menggunakan satu file html yang sama. File html ini disusun dengan menggunakan tag-tag layouting yang ramah terhadap search engine, seperti header, footer, nav, aside, dan section. 
+Dalam pembahaasan kali ini, kita akan membahas dua teknik layout, yaitu position dan flexbox. Baik position maupun flexbox akan menggunakan satu file html yang sama. File html ini disusun dengan menggunakan tag-tag layouting yang ramah terhadap search engine, seperti header, footer, nav, aside, dan section. 
 
 Kita bisa saja menggunakan div \(dengan nama class header\), namun hal ini tidak mendatangkan benefit bagi search engine. Dengan tag layout, search engine akan mengenal mana informasi yang penting berdasarkan tag yang digunakan \(misal informasi yang ada di header, nav atau section\).
 
