@@ -24,9 +24,9 @@ HTML adalah bahasa markup standar untuk membuat halaman Web yang menggambarkan s
 
 ### Text Editor
 
-Untuk membuat/mengedit file html bisa dilakukan dengan text editor sederhana seperti notepad, maupun text editor yang dibangun khusus untuk developer. Saya pribadi biasa menggunakan visual code. Download Viusak code melalui halaman [https://code.visualstudio.com/download](https://code.visualstudio.com/download) dan install di komputer/laptop.
+Untuk membuat/mengedit file html bisa dilakukan dengan text editor sederhana seperti notepad, maupun text editor yang dibangun khusus untuk developer. Saya pribadi biasa menggunakan Visual Studio Code. Download Visual Studio code melalui halaman [https://code.visualstudio.com/download](https://code.visualstudio.com/download) dan install di komputer/laptop.
 
-File html disimpan dengan ekstensi .html. Buka visual code dan buat file index.html yang berisi dengan kode html seperti di atas. File ini ketika dibuka dengan browser \(seperti chrome/firefox/opera\) akan menampilkan tulisan "Selamat Pagi". Silahkan coba klik file index.html yang telah dibuat,  tampilan di browser akan tampak seperti gambar di bawah ini.
+File html disimpan dengan ekstensi .html. Buka Visual Studio Code dan buat file index.html yang berisi dengan kode html seperti di atas. File ini ketika dibuka dengan browser \(seperti chrome/firefox/opera\) akan menampilkan tulisan "Selamat Pagi". Silahkan coba klik file index.html yang telah dibuat,  tampilan di browser akan tampak seperti gambar di bawah ini.
 
 ![](../.gitbook/assets/screen-shot-2021-07-28-at-19.55.11.png)
 
