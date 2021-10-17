@@ -27,6 +27,7 @@
 * [Error Handling](javascript/error-handling.md)
 * [AJAX](javascript/fetch-api.md)
 * [Local Storage](javascript/local-storage.md)
+* [Notification](javascript/notification.md)
 * [Asynchronous](javascript/asynchronous.md)
 * [Praktikum II : Mengintegrasikan Halaman Login dan CRUD dengan AJAX](javascript/praktikum-ii-mengintegrasikan-halaman-login-dan-crud-dengan-ajax.md)
 
@@ -62,4 +63,3 @@
 ## Svelte Native for Mobile
 
 * [Pengenalan Svelte Native](svelte-native-for-mobile/pengenalan-svelte-native.md)
-
