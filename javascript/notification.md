@@ -2,7 +2,7 @@
 
 Notification mutlak diperlukan ketika kita bertransaksi dengan data, apakah transaksi kita sukses atau gagal. Untuk membuat notification cukup sederhana, dengan memanfaatkan css modal dan fungsi setTimeout().
 
-Modal
+### Modal
 
  Buat modal notification dengan html dan css seperti berikut
 
@@ -61,7 +61,7 @@ Modal
 </div>
 ```
 
-SetTimeout
+### SetTimeout
 
 SetTimeout adalah fungsi javascript yang digunakan untuk memberi jeda eksekusi suatu callback (blok fungsi). Idenya adalah : 
 
@@ -92,6 +92,8 @@ function showNotification(message, type, redirect="") {
   }
 ```
 
+### Implementasi Login Notification
+
 Selanjutnya kita akan memodifikasi file login.html agar mempunyai notification. Fungsi listening event onload dimodifikasi agar jika sukses akan menampilkan notifikasi sukses, dan jika gagal login akan menampilkan notifikasi error login. 
 
 ```javascript
@@ -112,7 +114,7 @@ function login() {
   }
 ```
 
-Berikut adalah kode lengkap file login.html
+Berikut adalah kode lengkap file login.html nyang sudah ditambahkan notification.
 
 ```html
 <style>
