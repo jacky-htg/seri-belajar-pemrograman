@@ -27,6 +27,7 @@
 * [Error Handling](javascript/error-handling.md)
 * [AJAX](javascript/fetch-api.md)
 * [Local Storage](javascript/local-storage.md)
+* [Param Url](javascript/param-url.md)
 * [Notification](javascript/notification.md)
 * [Asynchronous](javascript/asynchronous.md)
 * [Praktikum II : Mengintegrasikan Halaman Login dan CRUD dengan AJAX](javascript/praktikum-ii-mengintegrasikan-halaman-login-dan-crud-dengan-ajax.md)
